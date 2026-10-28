@@ -1,0 +1,7 @@
+#BlueJ class context
+#Tue Oct 27 22:57:16 CST 2026
+comment0.target=Particular
+comment1.params=pPlaca pMarca pModelo pAnnio
+comment1.target=Particular(java.lang.String, java.lang.String, java.lang.String, int)
+comment2.target=double calcularMontoPeaje()
+numComments=3

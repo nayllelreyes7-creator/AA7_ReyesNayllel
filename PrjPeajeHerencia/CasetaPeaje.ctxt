@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Oct 27 22:55:33 CST 2026
+comment0.target=CasetaPeaje
+comment1.params=pNombreAutopista
+comment1.target=CasetaPeaje(java.lang.String)
+comment2.params=obj
+comment2.target=void cobrarPeaje(Vehiculo)
+comment3.target=double getTotalCobrado()
+comment4.target=int getCantidadDeCasetasPeaje()
+comment5.target=java.lang.String toString()
+numComments=6

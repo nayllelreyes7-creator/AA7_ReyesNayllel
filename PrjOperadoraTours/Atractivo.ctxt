@@ -1,0 +1,9 @@
+#BlueJ class context
+#Tue Oct 27 23:01:00 CST 2026
+comment0.target=Atractivo
+comment1.params=codigo nombre montoEntrada
+comment1.target=Atractivo(java.lang.String, java.lang.String, double)
+comment2.target=java.lang.String getNombre()
+comment3.target=double getMontoEntrada()
+comment4.target=java.lang.String toString()
+numComments=5

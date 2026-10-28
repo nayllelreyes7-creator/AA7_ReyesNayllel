@@ -1,0 +1,9 @@
+#BlueJ class context
+#Tue Oct 27 22:53:49 CST 2026
+comment0.target=Vehiculo
+comment1.params=pPlaca pTipo pMarca pModelo pAnnio
+comment1.target=Vehiculo(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int)
+comment2.target=double calcularMontoPeaje()
+comment3.target=java.lang.String getTipo()
+comment4.target=java.lang.String toString()
+numComments=5

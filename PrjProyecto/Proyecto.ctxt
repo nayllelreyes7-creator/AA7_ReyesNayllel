@@ -1,0 +1,16 @@
+#BlueJ class context
+#Tue Oct 27 22:49:38 CST 2026
+comment0.target=Proyecto
+comment1.params=nombre costoInicial
+comment1.target=Proyecto(java.lang.String, double)
+comment2.target=java.lang.String establecerFechaInicioProyecto()
+comment3.target=double calcularCostoActual()
+comment4.target=double calcularBalance()
+comment5.params=p
+comment5.target=void asignarEncargado(Persona)
+comment6.params=monto
+comment6.target=void registrarIngreso(double)
+comment7.params=e
+comment7.target=void registrarEntregable(Entregable)
+comment8.target=java.lang.String toString()
+numComments=9
